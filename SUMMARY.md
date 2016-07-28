@@ -35,4 +35,5 @@
 * Chapter 3. Build Hooks
    * The Gradle Lifecycle: A Review
    * Advising the Build Graph
+   * Advising Project Evaluation
 
