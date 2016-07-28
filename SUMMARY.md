@@ -21,4 +21,5 @@
    * SourceSets as FileCollections
    * Lazy Files
    * Conclusion
+* Chapter 2. Custom Plug-Ins
 
