@@ -10,4 +10,5 @@
    * Filtering Line by Line
    * Filtering File by File
    * The File Methods
+   * file()
 
