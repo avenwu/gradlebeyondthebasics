@@ -39,4 +39,5 @@
    * Global Project Loading and Evaluation Hooks
    * Build Finished
    * Rules
+   * Creating a Rule
 
