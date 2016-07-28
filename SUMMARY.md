@@ -5,4 +5,5 @@
    * Copy Task
    * Transforming Directory Structure
    * Renaming Files During Copy
+   * Filtering and Transforming Files
 
