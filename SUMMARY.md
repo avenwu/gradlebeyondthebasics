@@ -50,4 +50,5 @@
    * Module Dependencies
    * Dynamic Versions
    * File Dependencies
+   * Project Dependencies
 
