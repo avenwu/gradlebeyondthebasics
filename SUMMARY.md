@@ -53,4 +53,5 @@
    * Project Dependencies
    * Internal Dependencies
    * Repositories:Dependency Resolution
+   * Maven Repositories
 
