@@ -13,4 +13,5 @@
    * file()
    * files()
    * fileTree()
+   * The FileCollection Interface
 
