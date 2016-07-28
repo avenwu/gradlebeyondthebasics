@@ -45,4 +45,5 @@
    * Conclusion
 * Chapter 4. Dependency Management
    * Waht Is Dependency Management?
+   * Dependency Concepts
 
