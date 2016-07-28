@@ -31,4 +31,5 @@
    * Applying Yourself
    * Extensions
    * Packaging a Plug-In
+   * Conclusion
 
