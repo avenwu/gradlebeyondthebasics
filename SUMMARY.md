@@ -14,4 +14,5 @@
    * files()
    * fileTree()
    * The FileCollection Interface
+   * Converting to a Set
 
