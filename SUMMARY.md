@@ -56,4 +56,5 @@
    * Maven Repositories
    * Ivy
    * Repository Credentials
+   * Static Dependencies
 
