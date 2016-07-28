@@ -4,4 +4,5 @@
 * [Chapter 1. File Operations](chapter1.md)
    * Copy Task
    * Transforming Directory Structure
+   * Renaming Files During Copy
 
