@@ -19,4 +19,5 @@
    * Module Dependencies as FileCollections
    * Adding and Subtracting FileCollections
    * SourceSets as FileCollections
+   * Lazy Files
 
