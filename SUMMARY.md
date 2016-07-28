@@ -54,4 +54,5 @@
    * Internal Dependencies
    * Repositories:Dependency Resolution
    * Maven Repositories
+   * Ivy
 
