@@ -61,4 +61,5 @@
    * Dependency Caching
    * Configuring Resolution Strategry
    * Failing on Version Conflict
+   * Forcing Versions
 
