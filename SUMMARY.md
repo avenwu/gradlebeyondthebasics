@@ -15,4 +15,5 @@
    * fileTree()
    * The FileCollection Interface
    * Converting to a Set
+   * Converting to a Path String
 
