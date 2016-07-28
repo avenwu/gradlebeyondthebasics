@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Chapter 1. File Operations](chapter1.md)
-   * Copy Task
+   * [Copy Task](copy_task.md)
    * Transforming Directory Structure
    * Renaming Files During Copy
    * Filtering and Transforming Files
