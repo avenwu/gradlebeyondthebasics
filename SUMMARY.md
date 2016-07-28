@@ -55,4 +55,5 @@
    * Repositories:Dependency Resolution
    * Maven Repositories
    * Ivy
+   * Repository Credentials
 
