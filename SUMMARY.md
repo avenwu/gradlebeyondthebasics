@@ -17,4 +17,5 @@
    * Converting to a Set
    * Converting to a Path String
    * Module Dependencies as FileCollections
+   * Adding and Subtracting FileCollections
 
