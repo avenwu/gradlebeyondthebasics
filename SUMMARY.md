@@ -43,4 +43,5 @@
    * Dealing with Imperative Rule COde
    * Genaralizing Rules Beyonf Tasks
    * Conclusion
+* Chapter 4. Dependency Management
 
