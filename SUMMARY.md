@@ -47,4 +47,5 @@
    * Waht Is Dependency Management?
    * Dependency Concepts
    * Configurations
+   * Module Dependencies
 
