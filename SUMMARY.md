@@ -60,4 +60,5 @@
    * Buildscript Dependencies
    * Dependency Caching
    * Configuring Resolution Strategry
+   * Failing on Version Conflict
 
