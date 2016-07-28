@@ -52,4 +52,5 @@
    * File Dependencies
    * Project Dependencies
    * Internal Dependencies
+   * Repositories:Dependency Resolution
 
