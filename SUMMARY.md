@@ -12,4 +12,5 @@
    * The File Methods
    * file()
    * files()
+   * fileTree()
 
