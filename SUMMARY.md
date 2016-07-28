@@ -48,4 +48,5 @@
    * Dependency Concepts
    * Configurations
    * Module Dependencies
+   * Dynamic Versions
 
