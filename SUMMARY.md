@@ -25,4 +25,5 @@
    * Plug-In Philosophy
    * The Plug-In API
    * The Example Plug-In
+   * Setup
 
