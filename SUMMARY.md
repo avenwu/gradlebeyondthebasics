@@ -30,4 +30,5 @@
    * Custom Liquibase Tasks
    * Applying Yourself
    * Extensions
+   * Packaging a Plug-In
 
