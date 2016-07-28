@@ -62,4 +62,5 @@
    * Configuring Resolution Strategry
    * Failing on Version Conflict
    * Forcing Versions
+   * Cache Expiration
 
