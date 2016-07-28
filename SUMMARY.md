@@ -7,4 +7,5 @@
    * Renaming Files During Copy
    * Filtering and Transforming Files
    * Keyword Expansion
+   * Filtering Line by Line
 
