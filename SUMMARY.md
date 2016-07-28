@@ -29,4 +29,5 @@
    * Sketching Out Your Plug-In
    * Custom Liquibase Tasks
    * Applying Yourself
+   * Extensions
 
