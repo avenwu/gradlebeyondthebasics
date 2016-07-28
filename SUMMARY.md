@@ -24,4 +24,5 @@
 * Chapter 2. Custom Plug-Ins
    * Plug-In Philosophy
    * The Plug-In API
+   * The Example Plug-In
 
