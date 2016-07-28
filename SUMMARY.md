@@ -27,4 +27,5 @@
    * The Example Plug-In
    * Setup
    * Sketching Out Your Plug-In
+   * Custom Liquibase Tasks
 
