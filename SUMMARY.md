@@ -59,4 +59,5 @@
    * Static Dependencies
    * Buildscript Dependencies
    * Dependency Caching
+   * Configuring Resolution Strategry
 
