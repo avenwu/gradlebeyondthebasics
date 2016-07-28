@@ -42,4 +42,5 @@
    * Creating a Rule
    * Dealing with Imperative Rule COde
    * Genaralizing Rules Beyonf Tasks
+   * Conclusion
 
