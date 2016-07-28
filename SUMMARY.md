@@ -33,4 +33,5 @@
    * Packaging a Plug-In
    * Conclusion
 * Chapter 3. Build Hooks
+   * The Gradle Lifecycle: A Review
 
