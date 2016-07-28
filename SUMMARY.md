@@ -16,4 +16,5 @@
    * The FileCollection Interface
    * Converting to a Set
    * Converting to a Path String
+   * Module Dependencies as FileCollections
 
