@@ -44,4 +44,5 @@
    * Genaralizing Rules Beyonf Tasks
    * Conclusion
 * Chapter 4. Dependency Management
+   * Waht Is Dependency Management?
 
