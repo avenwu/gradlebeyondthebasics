@@ -51,4 +51,5 @@
    * Dynamic Versions
    * File Dependencies
    * Project Dependencies
+   * Internal Dependencies
 
