@@ -4,7 +4,7 @@
 * [第一章 文件操作](chapter1.md)
    * [拷贝任务](copy-task.md)
    * [过滤与修改文件](filtering-and-transfering-files.md)
-   * The File Methods
+   * [The File Methods](the_file_methods.md)
    * file()
    * files()
    * fileTree()
