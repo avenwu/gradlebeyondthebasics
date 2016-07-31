@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [第一章 文件操作](chapter1.md)
    * [拷贝任务](copy-task.md)
-   * Transforming Directory Structure
    * Renaming Files During Copy
    * Filtering and Transforming Files
    * Keyword Expansion
