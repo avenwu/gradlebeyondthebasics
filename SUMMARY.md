@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [第一章 文件操作](chapter1.md)
    * [拷贝任务](copy-task.md)
-   * 过滤与改变文件
+   * [过滤与改变文件](filtering-and-transfering-files.md)
    * Keyword Expansion
    * Filtering Line by Line
    * Filtering File by File
