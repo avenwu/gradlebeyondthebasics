@@ -71,4 +71,24 @@ file()有效的将路径转为文件，files()基于此创建文件集合。但�
 
 使用fileTree()的最简单方式是指定一个父目录，运行它遍历所有的子目录，把找到的文件都放入文件集合。例如创建一个集合包含Java Project中所有的源代码，就可以用fileTree(‘src/main/java’)完成。
 
-有时候可能需要做一些简单的过滤操作。比如
+有时候可能需要做一些简单的过滤操作。比如你知道源码目录中包含了一些以~结尾的备份文件。又比如源码目录目录中混入了一些XML文件，而你需要单独处理这些XML文件。这种情况下课通过fileTree()操作，Example 1-15.
+
+*Example 1-15. fileTree()结合includes和excludes*
+
+```groovy
+def noBackups = fileTree('src/main/java') { 
+    exclude '**/*~'
+}
+def xmlFilesOnly = fileTree('src/main/java') { 
+    include '**/*.xml'
+}
+```
+
+目录和include，exclude都可以用map形式传递，如Example 1-16.
+
+*Example 1-16. 利用map结合fileTree与include，exclude*
+
+```groovy
+def noBackups = fileTree(dir: 'src/main/java', excludes: ['**/*~']) 
+def xmlFilesOnly = fileTree(dir: 'src/main/java', includes: ['**/*.xml'])
+```
