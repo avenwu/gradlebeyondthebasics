@@ -81,8 +81,8 @@ $ gradle nFL
 ~/file-collection-lab/src/main/java/org/gradle/example/ContentFactory.java, 
 ~/file-collection-lab/src/main/java/org/gradle/example/ContentRegistry.java, 
 ~/file-collection-lab/src/main/java/org/gradle/example/ContentSink.java, 
-~/file-collection-lab/src/main/java/org/gradle/example/
- DefaultContentFactory.java, ~/file-collection-lab/src/main/java/org/gradle/example/DonneContent.java, 
+~/file-collection-lab/src/main/java/org/gradle/example/DefaultContentFactory.java, 
+~/file-collection-lab/src/main/java/org/gradle/example/DonneContent.java, 
 ~/file-collection-lab/src/main/java/org/gradle/example/PoetryEmitter.java, 
 ~/file-collection-lab/src/main/java/org/gradle/example/ShakespeareContent.java]
 
