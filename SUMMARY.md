@@ -8,11 +8,11 @@
     * [FileCollection接口](the-filecollection-interface.md)
     * [文件懒加载](lazy-files.md)
     * [小结](conclusion.md)
-* 第二章 自定义插件
+* [第二章 自定义插件](第二章-自定义插件.md)
     * [插件哲学](plugin-philosophy.md)
     * [插件API](the-plug-in-api.md)
     * [插件案例](the-example-plug-in.md)
-    * Setup
+    * [Setup](setup.md)
     * Sketching Out Your Plug-In
     * Custom Liquibase Tasks
     * Applying Yourself
