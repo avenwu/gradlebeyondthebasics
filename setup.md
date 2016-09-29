@@ -123,5 +123,31 @@ update {
 
 设计插件extension应该从简单的build文件语法开始，在设计build语法前，先思考我们的构建文件要处理的是什么样的东西。举例来说，在上面的示例中，我们需要知道数据库和changelog。
 
-数据库就是一个已经通过JDBC连接的特定的数据库实例。通过Liquibase自动化迁移的构建会将
+数据库就是一个通过JDBC连接的特定的数据库实例。通过Liquibase自动迁移会有几个独立的数据库沙箱对象，比如stage是服务器上的数据库实例用于ad_hoc测试，正式数据库等等。
 
+Liquibase的changelog文件包含了一个有序列表，内容为数据库上所有的重构操作日志，日志以XML格式存储。更多的信息可以在官网的[Liquibase changelog](http://www.liquibase.org/documentation/databasechangelog)处获取。Example 2-5有一个changelog，真实环境下，一般会有多个日志文件。我们的模型必须能够支持任意数量的changelog文件。
+
+**Example 2-5. The goal of our plug-in’s new DSL**
+
+```
+liquibase {
+  changelogs {
+    main {
+      file = file('changelog.groovy')
+    } 
+  }
+  databases {
+    sandbox {
+      url = 'jdbc:h2:db/liquibase_workshop;FILE_LOCK=NO'
+      username = 'sa'
+      password = ''
+    }
+    staging {
+      url = 'jdbc:mysql://staging.server/app_db'
+      username = 'dev_account'
+      password = 'ab87d24bdc7452e557'
+    } 
+  }
+  defaultDatabase = databases.sandbox
+}
+```
